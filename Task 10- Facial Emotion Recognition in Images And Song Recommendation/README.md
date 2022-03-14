@@ -1,4 +1,4 @@
-# Facial Emotion Recognition in Images And Song Recommendation
+# ML Facial Recognition To Detect Mood And Suggest Songs Accordingly
 
 Machine Learning Facial recognition to detect mood and suggest songs accordingly 
 
