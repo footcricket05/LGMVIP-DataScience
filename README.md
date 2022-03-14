@@ -84,7 +84,7 @@ Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris
 
   - DatasetLink: https://www.kaggle.com/xainano/handwrittenmathsymbols  
  
- ### Task 10-Facial Emotion Recognition in Images And Song Recommendation
+ ### Task 10-ML Facial Recognition To Detect Mood And Suggest Songs Accordingly
    - Built a Facial recognition model to detect mood and suggest songs accordingly. 
    - Dataset Link :https://www.kaggle.com/msambare/fer2013
 
