@@ -10,9 +10,11 @@ The objective of this project is to train a RNN using Tensorflow and Keras libra
 
 
 ## Dataset
-The dataset used in this project can be accessed through this link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view. It is a text file that contains a large corpus of text data that can be used for training the RNN.
+The dataset used in this project can be accessed through this link: 
 
-Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
+https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view. 
+
+It is a text file that contains a large corpus of text data that can be used for training the RNN.
 
 
 ## Approach
