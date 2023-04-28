@@ -1,89 +1,57 @@
 # Data Science Internship -LetsGrowMore
-### This repo consists of my Internship tasks in LetsGrowMore Virtual Internship Program(LGMVIP)
 
+## Data Science Internship Projects
+
+This repository contains the code for the projects completed during the Data Science Internship at InfoPillar Solutions. The projects are:
+
+<ol>
+  <li> Iris Flowers Classification ML Project </li>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2001-Iris%20Flowers%20Classification%20using%20ML">code</a></p>
   
- 
-                                                 (Beginner Level Task)
-                                         
-### Task 1-Iris Flowers Classification ML Project                   
-                   
-   - This particular ML project is usually referred to as the “Hello World” of Machine Learning. 
-
-   - The iris flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities.
-
-   Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris 
-           
-        
-### Task 2-Stock Market Prediction And Forecasting Using Stacked LSTM
-   - From the given ‘Tata NSE’ dataset, predict the stock for28 days.
- 
-   - Dataset Link:https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
-
-
-### Task 3-Music Recommendation System
-                                         
-   - Built a  Music recommender systems can suggest songs to users based on their listening patterns. 
-   - Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
-
-
-### Task 4-Image to Pencil Sketch with Python
-
-   - Read the image in RBG format and then convert it to a grayscale image.
-
-   - This will turn an image into a classic black and white photo. 
-
-   - Then  invert the grayscale image also called negative image, this will be our inverted grayscale image. Inversion can be used to enhance details. 
-
-   - Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
-
-   - Dataset: use your own images.
-
-   
-
-
-                                                 (Intermediate Level Task)
-                                     
-                               
-### Task 5- Exploratory Data Analysis - Terrorism
-                                       
-   - Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’. 
-   - As a security/defense analyst, try to find out the hot zone of terrorism. 
-   - What all security issues and insights you can derive by EDA? 
-   - You can choose any of the tool of your choice 
-     (Python/R/Tableau/PowerBI/Excel/SAP/SAS) 
-   - Dataset: https://bit.ly/2TK5Xn5
-   
-
-### Task 6-Prediction using Decision Tree Algorithm 
-                                     
-   - Create the Decision Tree classifier and visualize it graphically.
-   - The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly. 
-   - Dataset : https://bit.ly/3kXTdox 
-
-
+  <li> Stock Market Prediction And Forecasting Using Stacked LSTM </li>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2002-Stock%20Market%20Prediction%20And%20Forecasting%20Using%20Stacked%20LSTM">code</a></p>
   
-                                                  (Advanced Level Task)
-                                     
-### Task 7-Develop A Neural Network That Can Read Handwriting
-   - Begin your neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN.
+  <li> Music Recommendation System </li>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2003-Music%20Recommendation%20System">code</a></p>
+  
+  <li> Image to Pencil Sketch with Python </li>
+  <p><a href="https://github.com/footcricket05/IPS-DS-Internship/blob/main/Movie%20Recommendation%20System/Movie_Recommendation_System.ipynb">code</a></p>
+  
+  <li> Exploratory Data Analysis - Terrorism </li>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2004-Image%20to%20Pencil%20Sketch%20with%20Python">code</a></p>
+  
+  <li> Prediction using Decision Tree Algorithm </li>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2005-Exploratory%20Data%20Analysis%20on%20Dataset%20-%20Terrorism">code</a></p>
+  
+  <li> Develop A Neural Network That Can Read Handwriting </li>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2007-A%20Neural%20Network%20That%20Can%20Read%20Handwriting">code</a></p>
+  
+  <li> Next Word Prediction </li>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2008%20-Next%20Word%20Prediction">code</a></p>
+  
+  <li> Handwritten equation solver using CNN </li>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2009%20-%20Handwritten%20equation%20solver%20using%20CNN">code</a></p>
+  
+  <li> ML Facial Recognition To Detect Mood And Suggest Songs Accordingly </li>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2010-ML%20Facial%20Recognition%20To%20Detect%20Mood%20And%20Suggest%20Songs%20Accordingly">code</a></p>
+  
+ </ol>
+  
 
-   - It has a very user-friendly interface that’s ideal for beginners. Dataset can be seen on MNIST database. 
+All projects include the code and necessary datasets used for training and testing. Please refer to the individual project folders for more details.
 
 
-### Task 8-Next Word Prediction
-  -  Using Tensorflow and Keras library train a RNN, to predict the next word. 
-  - Dataset Link: https://drive.google.com/file/d/1GeUzNVqiixXHnTl8oNiQ2W3CynX_lsu2/view
+
+## Installation
+To run any of the projects, clone the repository and install the necessary libraries using pip:
+```
+pip install -r requirements.txt
+```
 
 
-### Task 9-Handwritten equation solver using CNN 
-  - Build a Mathematical equation solver using character and symbol recognition using image processing and CNN. 
-  - DatasetLink: https://www.kaggle.com/xainano/handwrittenmathsymbols  
- 
- 
-### Task 10-ML Facial Recognition To Detect Mood And Suggest Songs Accordingly
-   - Built a Facial recognition model to detect mood and suggest songs accordingly. 
-   - Dataset Link :https://www.kaggle.com/msambare/fer2013
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or feedback
 
 
-                   
-               
+## License
+This project is licensed under the `MIT License`.
