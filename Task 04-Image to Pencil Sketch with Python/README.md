@@ -23,6 +23,7 @@ The following steps are involved in creating a pencil sketch of an image using P
 
 ## Dataset
 No external dataset is required for this project as the input image can be any image of choice.
+Reference - https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/
 
 ## Results
 The output of this project is a pencil sketch of the input image. The final pencil sketch has a black and white effect and is similar to a hand-drawn sketch.
