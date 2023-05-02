@@ -1,4 +1,4 @@
-# Data Science Internship -LetsGrowMore
+# LetsGrowMore
 
 ## Data Science Internship Projects
 
