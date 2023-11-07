@@ -15,7 +15,7 @@ This repository contains the code for the projects completed during the Data Sci
   <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2003-Music%20Recommendation%20System">code</a></p>
   
   <li> Image to Pencil Sketch with Python </li>
-  <p><a href="https://github.com/footcricket05/IPS-DS-Internship/blob/main/Movie%20Recommendation%20System/Movie_Recommendation_System.ipynb">code</a></p>
+  <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2004-Image%20to%20Pencil%20Sketch%20with%20Python">code</a></p>
   
   <li> Exploratory Data Analysis - Terrorism </li>
   <p><a href="https://github.com/footcricket05/LGMVIP-DataScience/tree/main/Task%2004-Image%20to%20Pencil%20Sketch%20with%20Python">code</a></p>
